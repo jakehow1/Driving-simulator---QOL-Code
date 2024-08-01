@@ -1,4 +1,6 @@
 # Driving-simulator---QOL-Code
+!! DISCLAIMER !! I AM A STUDENT THIS CODE IS BY NO MEANS PERFECT !
+
 Quality of life code, to make data wrangling / data analysis easier and quicker when using a driving simulator using the software 'City Car Driving' which is otherwise difficult to work with.
 This code enables extraction of driving statistics from the simulator sessions by firstly creating .txt files of the mistakes made in each session, then the provided code can be used to create a .csv file.
 This .csv file can be used alongside programming language 'R' to further wrangle the data as needed.
